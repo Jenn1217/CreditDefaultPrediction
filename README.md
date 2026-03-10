@@ -192,6 +192,3 @@ Potential improvements include:
 
 Katrina
 Graduate Student | AI / Financial Technology / Machine Learning
-
-
-我可以直接帮你把这个 repo **升级到像 Kaggle Top 项目那种水平**。
