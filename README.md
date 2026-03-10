@@ -2,7 +2,9 @@
 
 A machine learning project for **credit default risk prediction** based on large-scale borrower behavior data.
 The project implements a complete modeling pipeline including **data preprocessing, feature engineering, model comparison, and interpretability analysis using SHAP**.
+
 [English](README.md) | [中文](README_CN.md)
+
 ## Project Overview
 
 Credit risk assessment is a critical task in financial services.
