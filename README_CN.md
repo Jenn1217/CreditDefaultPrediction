@@ -4,6 +4,8 @@
 
 项目使用 Python + LightGBM 构建违约预测模型，并通过 SHAP 解释框架分析关键风险特征，为信贷风控提供数据驱动的决策支持。
 
+[English](README.md) | [中文](README_CN.md)
+
 # ⭐ Project Highlights
 
 大规模信贷数据建模：基于 Python（Pandas / Scikit-learn / LightGBM）对 百万级借款人行为数据进行建模分析，构建完整信贷违约预测流程。
